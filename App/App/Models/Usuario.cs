@@ -2,7 +2,9 @@
 {
     public class Usuario
     {
-        private int idUsuario { get; set; }
-        private String nombreUsuario { get; set; }
+        [Key]
+        [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
+        public int idUsuario { get; set; }
+        public String nombreUsuario { get; set; }
     }
 }
