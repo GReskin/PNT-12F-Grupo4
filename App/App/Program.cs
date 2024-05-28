@@ -1,3 +1,7 @@
+using App.Context;
+using Microsoft.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore.Design;
+
 namespace App
 {
     public class Program
@@ -7,8 +11,8 @@ namespace App
             var builder = WebApplication.CreateBuilder(args);
 
             builder.Services.AddDbContext<ClasesDatabaseContext>(
-options =>
-options.UseSqlServer(builder.Configuration["ConnectionString:ClasesDBConnection"]));
+            options =>
+            options.UseSqlServer(builder.Configuration["ConnectionString:ClasesDBConnection"]));
 
             // Add services to the container.
             builder.Services.AddControllersWithViews();
