@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Carpetas Windows\\Descargas\\PNT-12F-Grupo4\\App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9CD006E4-B91D-4E5D-86A2-46AB67C300A9}|App\\App.csproj|d:\\carpetas windows\\descargas\\pnt-12f-grupo4\\app\\app\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9CD006E4-B91D-4E5D-86A2-46AB67C300A9}|App\\App.csproj|solutionrelative:app\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CD006E4-B91D-4E5D-86A2-46AB67C300A9}|App\\App.csproj|d:\\carpetas windows\\descargas\\pnt-12f-grupo4\\app\\app\\context\\clasesdatabasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CD006E4-B91D-4E5D-86A2-46AB67C300A9}|App\\App.csproj|solutionrelative:app\\context\\clasesdatabasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Carpetas Windows\\Descargas\\PNT-12F-Grupo4\\App\\App\\appsettings.json",
+              "RelativeDocumentMoniker": "App\\appsettings.json",
+              "ToolTip": "D:\\Carpetas Windows\\Descargas\\PNT-12F-Grupo4\\App\\App\\appsettings.json",
+              "RelativeToolTip": "App\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-03T23:09:24.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClasesDatabaseContext.cs",
+              "DocumentMoniker": "D:\\Carpetas Windows\\Descargas\\PNT-12F-Grupo4\\App\\App\\Context\\ClasesDatabaseContext.cs",
+              "RelativeDocumentMoniker": "App\\Context\\ClasesDatabaseContext.cs",
+              "ToolTip": "D:\\Carpetas Windows\\Descargas\\PNT-12F-Grupo4\\App\\App\\Context\\ClasesDatabaseContext.cs",
+              "RelativeToolTip": "App\\Context\\ClasesDatabaseContext.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABEAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T23:08:01.112Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

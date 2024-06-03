@@ -1,16 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\App",
     "\\App\\App",
-    "\\App\\App\\bin",
-    "\\App\\App\\Context",
-    "\\App\\App\\Controllers",
-    "\\App\\App\\Models",
-    "\\App\\App\\obj",
-    "\\App\\App\\Properties",
-    "\\App\\App\\Views"
+    "\\App\\App\\Context"
   ],
-  "SelectedNode": "\\App\\App\\appsettings.json",
+  "SelectedNode": "\\App",
   "PreviewInSolutionExplorer": false
 }

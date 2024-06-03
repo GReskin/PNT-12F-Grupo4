@@ -1,22 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Lau\\source\\repos\\GReskin\\PNT-12F-Grupo4\\App\\PNT-12F-Grupo4\\",
+  "WorkspaceRootPath": "D:\\Carpetas Windows\\Descargas\\PNT-12F-Grupo4\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lau\\source\\repos\\GReskin\\PNT-12F-Grupo4\\App\\PNT-12F-Grupo4\\App\\App\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:App\\App\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lau\\source\\repos\\GReskin\\PNT-12F-Grupo4\\App\\PNT-12F-Grupo4\\App\\App\\App.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:App\\App\\App.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lau\\source\\repos\\GReskin\\PNT-12F-Grupo4\\App\\PNT-12F-Grupo4\\App\\App\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:App\\App\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lau\\source\\repos\\GReskin\\PNT-12F-Grupo4\\App\\PNT-12F-Grupo4\\App\\App\\Context\\ClasesDatabaseContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Carpetas Windows\\Descargas\\PNT-12F-Grupo4\\App\\App\\Context\\ClasesDatabaseContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:App\\App\\Context\\ClasesDatabaseContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Carpetas Windows\\Descargas\\PNT-12F-Grupo4\\App\\App\\Models\\Clase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:App\\App\\Models\\Clase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,54 +18,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Lau\\source\\repos\\GReskin\\PNT-12F-Grupo4\\App\\PNT-12F-Grupo4\\App\\App\\Program.cs",
-              "RelativeDocumentMoniker": "App\\App\\Program.cs",
-              "ToolTip": "C:\\Users\\Lau\\source\\repos\\GReskin\\PNT-12F-Grupo4\\App\\PNT-12F-Grupo4\\App\\App\\Program.cs",
-              "RelativeToolTip": "App\\App\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-27T23:50:07.541Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "App.csproj",
-              "DocumentMoniker": "C:\\Users\\Lau\\source\\repos\\GReskin\\PNT-12F-Grupo4\\App\\PNT-12F-Grupo4\\App\\App\\App.csproj",
-              "RelativeDocumentMoniker": "App\\App\\App.csproj",
-              "ToolTip": "C:\\Users\\Lau\\source\\repos\\GReskin\\PNT-12F-Grupo4\\App\\PNT-12F-Grupo4\\App\\App\\App.csproj",
-              "RelativeToolTip": "App\\App\\App.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-05-27T23:50:04.322Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Lau\\source\\repos\\GReskin\\PNT-12F-Grupo4\\App\\PNT-12F-Grupo4\\App\\App\\appsettings.json",
-              "RelativeDocumentMoniker": "App\\App\\appsettings.json",
-              "ToolTip": "C:\\Users\\Lau\\source\\repos\\GReskin\\PNT-12F-Grupo4\\App\\PNT-12F-Grupo4\\App\\App\\appsettings.json",
-              "RelativeToolTip": "App\\App\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-05-27T23:49:56.024Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "ClasesDatabaseContext.cs",
-              "DocumentMoniker": "C:\\Users\\Lau\\source\\repos\\GReskin\\PNT-12F-Grupo4\\App\\PNT-12F-Grupo4\\App\\App\\Context\\ClasesDatabaseContext.cs",
+              "DocumentMoniker": "D:\\Carpetas Windows\\Descargas\\PNT-12F-Grupo4\\App\\App\\Context\\ClasesDatabaseContext.cs",
               "RelativeDocumentMoniker": "App\\App\\Context\\ClasesDatabaseContext.cs",
-              "ToolTip": "C:\\Users\\Lau\\source\\repos\\GReskin\\PNT-12F-Grupo4\\App\\PNT-12F-Grupo4\\App\\App\\Context\\ClasesDatabaseContext.cs",
+              "ToolTip": "D:\\Carpetas Windows\\Descargas\\PNT-12F-Grupo4\\App\\App\\Context\\ClasesDatabaseContext.cs",
               "RelativeToolTip": "App\\App\\Context\\ClasesDatabaseContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -81,8 +38,16 @@
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Clase.cs",
+              "DocumentMoniker": "D:\\Carpetas Windows\\Descargas\\PNT-12F-Grupo4\\App\\App\\Models\\Clase.cs",
+              "RelativeDocumentMoniker": "App\\App\\Models\\Clase.cs",
+              "ToolTip": "D:\\Carpetas Windows\\Descargas\\PNT-12F-Grupo4\\App\\App\\Models\\Clase.cs",
+              "RelativeToolTip": "App\\App\\Models\\Clase.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T22:46:34.676Z"
             }
           ]
         }
