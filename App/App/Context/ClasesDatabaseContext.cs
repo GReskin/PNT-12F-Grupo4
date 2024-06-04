@@ -7,7 +7,6 @@ using App.Models;
 
 using System.Collections.Generic;
 
-using Microsoft.EntityFrameworkCore;
 
 namespace App.Context
 {
@@ -18,5 +17,6 @@ namespace App.Context
 		{
 		}
 		public DbSet<Usuario> Usuarios { get; set; }
+		public DbSet<Clase> Clase { get; set; }
 	}
 }

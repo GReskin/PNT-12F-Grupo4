@@ -16,10 +16,34 @@ namespace App.Migrations
         {
 #pragma warning disable 612, 618
             modelBuilder
-                .HasAnnotation("ProductVersion", "6.0.10")
+                .HasAnnotation("ProductVersion", "6.0.29")
                 .HasAnnotation("Relational:MaxIdentifierLength", 128);
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder, 1L, 1);
+
+            modelBuilder.Entity("App.Models.Clase", b =>
+                {
+                    b.Property<int>("idClase")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("idClase"), 1L, 1);
+
+                    b.Property<string>("linkVideo")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("nombreClase")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<int>("numeroClase")
+                        .HasColumnType("int");
+
+                    b.HasKey("idClase");
+
+                    b.ToTable("Clase");
+                });
 
             modelBuilder.Entity("App.Models.Usuario", b =>
                 {
