@@ -3,6 +3,7 @@ using App.Context;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 #nullable disable
@@ -10,9 +11,10 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace App.Migrations
 {
     [DbContext(typeof(ClasesDatabaseContext))]
-    partial class ClasesDatabaseContextModelSnapshot : ModelSnapshot
+    [Migration("20240610230856_DB")]
+    partial class DB
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -43,23 +45,6 @@ namespace App.Migrations
                     b.HasKey("idClase");
 
                     b.ToTable("Clase");
-                });
-
-            modelBuilder.Entity("App.Models.Curso", b =>
-                {
-                    b.Property<int>("idCurso")
-                        .ValueGeneratedOnAdd()
-                        .HasColumnType("int");
-
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("idCurso"), 1L, 1);
-
-                    b.Property<string>("nombreCurso")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
-
-                    b.HasKey("idCurso");
-
-                    b.ToTable("Cursos");
                 });
 
             modelBuilder.Entity("App.Models.Usuario", b =>

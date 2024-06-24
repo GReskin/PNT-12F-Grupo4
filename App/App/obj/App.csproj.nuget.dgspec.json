@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Carpetas Windows\\Descargas\\PNT-12F-Grupo4\\App\\App\\App.csproj": {}
+    "C:\\PNTCLON\\PNT-12F-Grupo4\\App\\App\\App.csproj": {}
   },
   "projects": {
-    "D:\\Carpetas Windows\\Descargas\\PNT-12F-Grupo4\\App\\App\\App.csproj": {
+    "C:\\PNTCLON\\PNT-12F-Grupo4\\App\\App\\App.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Carpetas Windows\\Descargas\\PNT-12F-Grupo4\\App\\App\\App.csproj",
+        "projectUniqueName": "C:\\PNTCLON\\PNT-12F-Grupo4\\App\\App\\App.csproj",
         "projectName": "App",
-        "projectPath": "D:\\Carpetas Windows\\Descargas\\PNT-12F-Grupo4\\App\\App\\App.csproj",
-        "packagesPath": "C:\\Users\\gasto\\.nuget\\packages\\",
-        "outputPath": "D:\\Carpetas Windows\\Descargas\\PNT-12F-Grupo4\\App\\App\\obj\\",
+        "projectPath": "C:\\PNTCLON\\PNT-12F-Grupo4\\App\\App\\App.csproj",
+        "packagesPath": "C:\\Users\\Lau\\.nuget\\packages\\",
+        "outputPath": "C:\\PNTCLON\\PNT-12F-Grupo4\\App\\App\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "E:\\VisualStudio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\gasto\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Lau\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -79,24 +75,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[6.0.28, 6.0.28]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[6.0.28, 6.0.28]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[6.0.28, 6.0.28]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[6.0.28, 6.0.28]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -105,7 +83,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
         }
       }
     }

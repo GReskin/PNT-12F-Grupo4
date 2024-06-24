@@ -18,5 +18,7 @@ namespace App.Context
 		}
 		public DbSet<Usuario> Usuarios { get; set; }
 		public DbSet<Clase> Clase { get; set; }
-	}
+        public DbSet<Curso> Cursos { get; set; }
+
+    }
 }
