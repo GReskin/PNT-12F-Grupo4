@@ -10,7 +10,7 @@ namespace App.Models
 
         public int idCurso { get; set; }
 
-        [Display(Name = "Nombre del curso")]
+        [Display(Name = "Nombre")]
         [Required(ErrorMessage = "El nombre del curso es requerido.")]
         public string nombreCurso { get; set;}
 

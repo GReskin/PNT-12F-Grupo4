@@ -14,7 +14,7 @@ namespace App.Models
     {
 
 
-        [Display(Name = "Nombre de la Clase")]
+        [Display(Name = "Nombre")]
         [Required(ErrorMessage = "Debe cargar el nombre de la clase!")]
         public String nombreClase { get; set; }
 
@@ -25,12 +25,12 @@ namespace App.Models
 
 
 
-        [Display(Name = "Fecha de la clase")]
+        [Display(Name = "Fecha")]
         [Required(ErrorMessage = "Debe cargar la fecha de la clase!")]
         [FechaValidator]
         public DateTime fechaClase { get; set; }
 
-        [Display(Name = "Link de la clase")]
+        [Display(Name = "Video")]
         [Required(ErrorMessage = "Debe cargar un link al video de la clase!")]
         [RegularExpression(@"^((?:https?:)?\/\/)?((?:www|m)\.)?((?:youtube\.com|youtu.be))(\/(?:[\w\-]+\?v=|embed\/|v\/)?)([\w\-]+)(\S+)?$", ErrorMessage = "Link no es valido!")]
         public String linkVideo { get; set; }

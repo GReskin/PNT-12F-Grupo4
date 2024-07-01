@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\PNTCLON\\PNT-12F-Grupo4\\App\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9CD006E4-B91D-4E5D-86A2-46AB67C300A9}|App\\App.csproj|c:\\pntclon\\pnt-12f-grupo4\\app\\app\\app.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{9CD006E4-B91D-4E5D-86A2-46AB67C300A9}|App\\App.csproj|solutionrelative:app\\app.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{9CD006E4-B91D-4E5D-86A2-46AB67C300A9}|App\\App.csproj|c:\\pntclon\\pnt-12f-grupo4\\app\\app\\models\\curso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CD006E4-B91D-4E5D-86A2-46AB67C300A9}|App\\App.csproj|solutionrelative:app\\models\\curso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9CD006E4-B91D-4E5D-86A2-46AB67C300A9}|App\\App.csproj|c:\\pntclon\\pnt-12f-grupo4\\app\\app\\models\\clase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -15,8 +15,16 @@
       "RelativeMoniker": "D:0:0:{9CD006E4-B91D-4E5D-86A2-46AB67C300A9}|App\\App.csproj|solutionrelative:app\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{9CD006E4-B91D-4E5D-86A2-46AB67C300A9}|App\\App.csproj|c:\\pntclon\\pnt-12f-grupo4\\app\\app\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CD006E4-B91D-4E5D-86A2-46AB67C300A9}|App\\App.csproj|solutionrelative:app\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9CD006E4-B91D-4E5D-86A2-46AB67C300A9}|App\\App.csproj|c:\\pntclon\\pnt-12f-grupo4\\app\\app\\controllers\\clasecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9CD006E4-B91D-4E5D-86A2-46AB67C300A9}|App\\App.csproj|solutionrelative:app\\controllers\\clasecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CD006E4-B91D-4E5D-86A2-46AB67C300A9}|App\\App.csproj|c:\\pntclon\\pnt-12f-grupo4\\app\\app\\app.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9CD006E4-B91D-4E5D-86A2-46AB67C300A9}|App\\App.csproj|solutionrelative:app\\app.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9CD006E4-B91D-4E5D-86A2-46AB67C300A9}|App\\App.csproj|c:\\pntclon\\pnt-12f-grupo4\\app\\app\\views\\clase\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -103,20 +111,12 @@
       "RelativeMoniker": "D:0:0:{9CD006E4-B91D-4E5D-86A2-46AB67C300A9}|App\\App.csproj|solutionrelative:app\\views\\usuario\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9CD006E4-B91D-4E5D-86A2-46AB67C300A9}|App\\App.csproj|c:\\pntclon\\pnt-12f-grupo4\\app\\app\\models\\curso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9CD006E4-B91D-4E5D-86A2-46AB67C300A9}|App\\App.csproj|solutionrelative:app\\models\\curso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9CD006E4-B91D-4E5D-86A2-46AB67C300A9}|App\\App.csproj|c:\\pntclon\\pnt-12f-grupo4\\app\\app\\migrations\\20240701021052_validaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9CD006E4-B91D-4E5D-86A2-46AB67C300A9}|App\\App.csproj|solutionrelative:app\\migrations\\20240701021052_validaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9CD006E4-B91D-4E5D-86A2-46AB67C300A9}|App\\App.csproj|c:\\pntclon\\pnt-12f-grupo4\\app\\app\\migrations\\20240630234805_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9CD006E4-B91D-4E5D-86A2-46AB67C300A9}|App\\App.csproj|solutionrelative:app\\migrations\\20240630234805_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9CD006E4-B91D-4E5D-86A2-46AB67C300A9}|App\\App.csproj|c:\\pntclon\\pnt-12f-grupo4\\app\\app\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9CD006E4-B91D-4E5D-86A2-46AB67C300A9}|App\\App.csproj|solutionrelative:app\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9CD006E4-B91D-4E5D-86A2-46AB67C300A9}|App\\App.csproj|c:\\pntclon\\pnt-12f-grupo4\\app\\app\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -146,7 +146,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -154,33 +154,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\PNTCLON\\PNT-12F-Grupo4\\App\\App\\Views\\Clase\\Delete.cshtml",
-              "RelativeDocumentMoniker": "App\\Views\\Clase\\Delete.cshtml",
-              "ToolTip": "C:\\PNTCLON\\PNT-12F-Grupo4\\App\\App\\Views\\Clase\\Delete.cshtml",
-              "RelativeToolTip": "App\\Views\\Clase\\Delete.cshtml",
-              "ViewState": "AQIAABIAAAAAAAAAAAAAABEAAAA4AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-01T16:05:49.106Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\PNTCLON\\PNT-12F-Grupo4\\App\\App\\Views\\Clase\\Create.cshtml",
-              "RelativeDocumentMoniker": "App\\Views\\Clase\\Create.cshtml",
-              "ToolTip": "C:\\PNTCLON\\PNT-12F-Grupo4\\App\\App\\Views\\Clase\\Create.cshtml",
-              "RelativeToolTip": "App\\Views\\Clase\\Create.cshtml",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABYAAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-01T16:05:32.74Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "ClaseController.cs",
               "DocumentMoniker": "C:\\PNTCLON\\PNT-12F-Grupo4\\App\\App\\Controllers\\ClaseController.cs",
               "RelativeDocumentMoniker": "App\\Controllers\\ClaseController.cs",
@@ -188,12 +162,11 @@
               "RelativeToolTip": "App\\Controllers\\ClaseController.cs",
               "ViewState": "AQIAAFQAAAAAAAAAAAAmwGQAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-01T15:46:48.043Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-01T15:46:48.043Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "ClasesDatabaseContext.cs",
               "DocumentMoniker": "C:\\PNTCLON\\PNT-12F-Grupo4\\App\\App\\Context\\ClasesDatabaseContext.cs",
               "RelativeDocumentMoniker": "App\\Context\\ClasesDatabaseContext.cs",
@@ -201,12 +174,11 @@
               "RelativeToolTip": "App\\Context\\ClasesDatabaseContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-01T16:03:54.681Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-01T16:03:54.681Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\PNTCLON\\PNT-12F-Grupo4\\App\\App\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "App\\Controllers\\HomeController.cs",
@@ -214,12 +186,11 @@
               "RelativeToolTip": "App\\Controllers\\HomeController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-01T15:46:46.844Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-01T15:46:46.844Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\PNTCLON\\PNT-12F-Grupo4\\App\\App\\Views\\Clase\\Details.cshtml",
               "RelativeDocumentMoniker": "App\\Views\\Clase\\Details.cshtml",
@@ -227,8 +198,7 @@
               "RelativeToolTip": "App\\Views\\Clase\\Details.cshtml",
               "ViewState": "AQIAAAwAAAAAAAAAAAAAAAsAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-01T16:05:55.041Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-01T16:05:55.041Z"
             },
             {
               "$type": "Document",
@@ -238,7 +208,7 @@
               "RelativeDocumentMoniker": "App\\Models\\Clase.cs",
               "ToolTip": "C:\\PNTCLON\\PNT-12F-Grupo4\\App\\App\\Models\\Clase.cs",
               "RelativeToolTip": "App\\Models\\Clase.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAADwvyQAAAAIAAAA",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAYwBcAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-01T16:24:51.429Z",
               "EditorCaption": ""
@@ -251,232 +221,38 @@
               "RelativeDocumentMoniker": "App\\Models\\Usuario.cs",
               "ToolTip": "C:\\PNTCLON\\PNT-12F-Grupo4\\App\\App\\Models\\Usuario.cs",
               "RelativeToolTip": "App\\Models\\Usuario.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAAHAAAA",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBgAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-01T16:30:22.581Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-01T16:30:22.581Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "App.csproj",
               "DocumentMoniker": "C:\\PNTCLON\\PNT-12F-Grupo4\\App\\App\\App.csproj",
               "RelativeDocumentMoniker": "App\\App.csproj",
               "ToolTip": "C:\\PNTCLON\\PNT-12F-Grupo4\\App\\App\\App.csproj",
               "RelativeToolTip": "App\\App.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-07-01T16:48:42.548Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-01T16:48:42.548Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "20240701030830_test2.cs",
-              "DocumentMoniker": "C:\\PNTCLON\\PNT-12F-Grupo4\\App\\App\\Migrations\\20240701030830_test2.cs",
-              "RelativeDocumentMoniker": "App\\Migrations\\20240701030830_test2.cs",
-              "ToolTip": "C:\\PNTCLON\\PNT-12F-Grupo4\\App\\App\\Migrations\\20240701030830_test2.cs",
-              "RelativeToolTip": "App\\Migrations\\20240701030830_test2.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-01T16:24:32.349Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "UsuarioController.cs",
-              "DocumentMoniker": "C:\\PNTCLON\\PNT-12F-Grupo4\\App\\App\\Controllers\\UsuarioController.cs",
-              "RelativeDocumentMoniker": "App\\Controllers\\UsuarioController.cs",
-              "ToolTip": "C:\\PNTCLON\\PNT-12F-Grupo4\\App\\App\\Controllers\\UsuarioController.cs",
-              "RelativeToolTip": "App\\Controllers\\UsuarioController.cs",
-              "ViewState": "AQIAAH4AAAAAAAAAAAApwIUAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-01T15:46:45.604Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\PNTCLON\\PNT-12F-Grupo4\\App\\App\\Views\\Curso\\Index.cshtml",
-              "RelativeDocumentMoniker": "App\\Views\\Curso\\Index.cshtml",
-              "ToolTip": "C:\\PNTCLON\\PNT-12F-Grupo4\\App\\App\\Views\\Curso\\Index.cshtml",
-              "RelativeToolTip": "App\\Views\\Curso\\Index.cshtml",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABoAAAAQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-01T16:06:48.417Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\PNTCLON\\PNT-12F-Grupo4\\App\\App\\Views\\Clase\\Index.cshtml",
-              "RelativeDocumentMoniker": "App\\Views\\Clase\\Index.cshtml",
-              "ToolTip": "C:\\PNTCLON\\PNT-12F-Grupo4\\App\\App\\Views\\Clase\\Index.cshtml",
-              "RelativeToolTip": "App\\Views\\Clase\\Index.cshtml",
-              "ViewState": "AQIAABIAAAAAAAAAAAAAABMAAAAQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-01T16:06:07.273Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\PNTCLON\\PNT-12F-Grupo4\\App\\App\\Views\\Clase\\Edit.cshtml",
-              "RelativeDocumentMoniker": "App\\Views\\Clase\\Edit.cshtml",
-              "ToolTip": "C:\\PNTCLON\\PNT-12F-Grupo4\\App\\App\\Views\\Clase\\Edit.cshtml",
-              "RelativeToolTip": "App\\Views\\Clase\\Edit.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-01T16:06:01.885Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "CursoController.cs",
-              "DocumentMoniker": "C:\\PNTCLON\\PNT-12F-Grupo4\\App\\App\\Controllers\\CursoController.cs",
-              "RelativeDocumentMoniker": "App\\Controllers\\CursoController.cs",
-              "ToolTip": "C:\\PNTCLON\\PNT-12F-Grupo4\\App\\App\\Controllers\\CursoController.cs",
-              "RelativeToolTip": "App\\Controllers\\CursoController.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAgwCkAAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-01T16:19:11.656Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\PNTCLON\\PNT-12F-Grupo4\\App\\App\\Views\\Curso\\Create.cshtml",
-              "RelativeDocumentMoniker": "App\\Views\\Curso\\Create.cshtml",
-              "ToolTip": "C:\\PNTCLON\\PNT-12F-Grupo4\\App\\App\\Views\\Curso\\Create.cshtml",
-              "RelativeToolTip": "App\\Views\\Curso\\Create.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAmAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-01T05:09:57.651Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\PNTCLON\\PNT-12F-Grupo4\\App\\App\\Views\\Curso\\Delete.cshtml",
-              "RelativeDocumentMoniker": "App\\Views\\Curso\\Delete.cshtml",
-              "ToolTip": "C:\\PNTCLON\\PNT-12F-Grupo4\\App\\App\\Views\\Curso\\Delete.cshtml",
-              "RelativeToolTip": "App\\Views\\Curso\\Delete.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-01T16:06:23.753Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\PNTCLON\\PNT-12F-Grupo4\\App\\App\\Views\\Curso\\Details.cshtml",
-              "RelativeDocumentMoniker": "App\\Views\\Curso\\Details.cshtml",
-              "ToolTip": "C:\\PNTCLON\\PNT-12F-Grupo4\\App\\App\\Views\\Curso\\Details.cshtml",
-              "RelativeToolTip": "App\\Views\\Curso\\Details.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-01T16:06:39.713Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\PNTCLON\\PNT-12F-Grupo4\\App\\App\\Views\\Curso\\Edit.cshtml",
-              "RelativeDocumentMoniker": "App\\Views\\Curso\\Edit.cshtml",
-              "ToolTip": "C:\\PNTCLON\\PNT-12F-Grupo4\\App\\App\\Views\\Curso\\Edit.cshtml",
-              "RelativeToolTip": "App\\Views\\Curso\\Edit.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-01T16:06:44.153Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\PNTCLON\\PNT-12F-Grupo4\\App\\App\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "App\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\PNTCLON\\PNT-12F-Grupo4\\App\\App\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "App\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-01T05:07:55.543Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\PNTCLON\\PNT-12F-Grupo4\\App\\App\\Views\\Usuario\\Index.cshtml",
-              "RelativeDocumentMoniker": "App\\Views\\Usuario\\Index.cshtml",
-              "ToolTip": "C:\\PNTCLON\\PNT-12F-Grupo4\\App\\App\\Views\\Usuario\\Index.cshtml",
-              "RelativeToolTip": "App\\Views\\Usuario\\Index.cshtml",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAACIAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-01T05:10:17.751Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\PNTCLON\\PNT-12F-Grupo4\\App\\App\\Views\\Usuario\\Edit.cshtml",
-              "RelativeDocumentMoniker": "App\\Views\\Usuario\\Edit.cshtml",
-              "ToolTip": "C:\\PNTCLON\\PNT-12F-Grupo4\\App\\App\\Views\\Usuario\\Edit.cshtml",
-              "RelativeToolTip": "App\\Views\\Usuario\\Edit.cshtml",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAMAAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-01T16:07:21.947Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\PNTCLON\\PNT-12F-Grupo4\\App\\App\\Views\\Usuario\\Details.cshtml",
-              "RelativeDocumentMoniker": "App\\Views\\Usuario\\Details.cshtml",
-              "ToolTip": "C:\\PNTCLON\\PNT-12F-Grupo4\\App\\App\\Views\\Usuario\\Details.cshtml",
-              "RelativeToolTip": "App\\Views\\Usuario\\Details.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAArAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-01T16:07:16.601Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\PNTCLON\\PNT-12F-Grupo4\\App\\App\\Views\\Usuario\\Delete.cshtml",
-              "RelativeDocumentMoniker": "App\\Views\\Usuario\\Delete.cshtml",
-              "ToolTip": "C:\\PNTCLON\\PNT-12F-Grupo4\\App\\App\\Views\\Usuario\\Delete.cshtml",
-              "RelativeToolTip": "App\\Views\\Usuario\\Delete.cshtml",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAACAAAAAtAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-01T16:07:11.466Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\PNTCLON\\PNT-12F-Grupo4\\App\\App\\Views\\Usuario\\Create.cshtml",
-              "RelativeDocumentMoniker": "App\\Views\\Usuario\\Create.cshtml",
-              "ToolTip": "C:\\PNTCLON\\PNT-12F-Grupo4\\App\\App\\Views\\Usuario\\Create.cshtml",
-              "RelativeToolTip": "App\\Views\\Usuario\\Create.cshtml",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAMAAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-01T16:06:54.098Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 0,
               "Title": "Curso.cs",
               "DocumentMoniker": "C:\\PNTCLON\\PNT-12F-Grupo4\\App\\App\\Models\\Curso.cs",
               "RelativeDocumentMoniker": "App\\Models\\Curso.cs",
               "ToolTip": "C:\\PNTCLON\\PNT-12F-Grupo4\\App\\App\\Models\\Curso.cs",
               "RelativeToolTip": "App\\Models\\Curso.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-01T16:30:20.243Z"
+              "WhenOpened": "2024-07-01T16:30:20.243Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 3,
               "Title": "ErrorViewModel.cs",
               "DocumentMoniker": "C:\\PNTCLON\\PNT-12F-Grupo4\\App\\App\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "App\\Models\\ErrorViewModel.cs",
@@ -488,7 +264,223 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 8,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\PNTCLON\\PNT-12F-Grupo4\\App\\App\\Views\\Clase\\Create.cshtml",
+              "RelativeDocumentMoniker": "App\\Views\\Clase\\Create.cshtml",
+              "ToolTip": "C:\\PNTCLON\\PNT-12F-Grupo4\\App\\App\\Views\\Clase\\Create.cshtml",
+              "RelativeToolTip": "App\\Views\\Clase\\Create.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABYAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-01T16:05:32.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\PNTCLON\\PNT-12F-Grupo4\\App\\App\\Views\\Clase\\Delete.cshtml",
+              "RelativeDocumentMoniker": "App\\Views\\Clase\\Delete.cshtml",
+              "ToolTip": "C:\\PNTCLON\\PNT-12F-Grupo4\\App\\App\\Views\\Clase\\Delete.cshtml",
+              "RelativeToolTip": "App\\Views\\Clase\\Delete.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABEAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-01T16:05:49.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20240701030830_test2.cs",
+              "DocumentMoniker": "C:\\PNTCLON\\PNT-12F-Grupo4\\App\\App\\Migrations\\20240701030830_test2.cs",
+              "RelativeDocumentMoniker": "App\\Migrations\\20240701030830_test2.cs",
+              "ToolTip": "C:\\PNTCLON\\PNT-12F-Grupo4\\App\\App\\Migrations\\20240701030830_test2.cs",
+              "RelativeToolTip": "App\\Migrations\\20240701030830_test2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T16:24:32.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\PNTCLON\\PNT-12F-Grupo4\\App\\App\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "App\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\PNTCLON\\PNT-12F-Grupo4\\App\\App\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "App\\Controllers\\UsuarioController.cs",
+              "ViewState": "AQIAAH4AAAAAAAAAAAApwIUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T15:46:45.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\PNTCLON\\PNT-12F-Grupo4\\App\\App\\Views\\Curso\\Index.cshtml",
+              "RelativeDocumentMoniker": "App\\Views\\Curso\\Index.cshtml",
+              "ToolTip": "C:\\PNTCLON\\PNT-12F-Grupo4\\App\\App\\Views\\Curso\\Index.cshtml",
+              "RelativeToolTip": "App\\Views\\Curso\\Index.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABoAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-01T16:06:48.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\PNTCLON\\PNT-12F-Grupo4\\App\\App\\Views\\Clase\\Index.cshtml",
+              "RelativeDocumentMoniker": "App\\Views\\Clase\\Index.cshtml",
+              "ToolTip": "C:\\PNTCLON\\PNT-12F-Grupo4\\App\\App\\Views\\Clase\\Index.cshtml",
+              "RelativeToolTip": "App\\Views\\Clase\\Index.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABMAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-01T16:06:07.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\PNTCLON\\PNT-12F-Grupo4\\App\\App\\Views\\Clase\\Edit.cshtml",
+              "RelativeDocumentMoniker": "App\\Views\\Clase\\Edit.cshtml",
+              "ToolTip": "C:\\PNTCLON\\PNT-12F-Grupo4\\App\\App\\Views\\Clase\\Edit.cshtml",
+              "RelativeToolTip": "App\\Views\\Clase\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-01T16:06:01.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CursoController.cs",
+              "DocumentMoniker": "C:\\PNTCLON\\PNT-12F-Grupo4\\App\\App\\Controllers\\CursoController.cs",
+              "RelativeDocumentMoniker": "App\\Controllers\\CursoController.cs",
+              "ToolTip": "C:\\PNTCLON\\PNT-12F-Grupo4\\App\\App\\Controllers\\CursoController.cs",
+              "RelativeToolTip": "App\\Controllers\\CursoController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwCkAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T16:19:11.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\PNTCLON\\PNT-12F-Grupo4\\App\\App\\Views\\Curso\\Create.cshtml",
+              "RelativeDocumentMoniker": "App\\Views\\Curso\\Create.cshtml",
+              "ToolTip": "C:\\PNTCLON\\PNT-12F-Grupo4\\App\\App\\Views\\Curso\\Create.cshtml",
+              "RelativeToolTip": "App\\Views\\Curso\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-01T05:09:57.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\PNTCLON\\PNT-12F-Grupo4\\App\\App\\Views\\Curso\\Delete.cshtml",
+              "RelativeDocumentMoniker": "App\\Views\\Curso\\Delete.cshtml",
+              "ToolTip": "C:\\PNTCLON\\PNT-12F-Grupo4\\App\\App\\Views\\Curso\\Delete.cshtml",
+              "RelativeToolTip": "App\\Views\\Curso\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-01T16:06:23.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\PNTCLON\\PNT-12F-Grupo4\\App\\App\\Views\\Curso\\Details.cshtml",
+              "RelativeDocumentMoniker": "App\\Views\\Curso\\Details.cshtml",
+              "ToolTip": "C:\\PNTCLON\\PNT-12F-Grupo4\\App\\App\\Views\\Curso\\Details.cshtml",
+              "RelativeToolTip": "App\\Views\\Curso\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-01T16:06:39.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\PNTCLON\\PNT-12F-Grupo4\\App\\App\\Views\\Curso\\Edit.cshtml",
+              "RelativeDocumentMoniker": "App\\Views\\Curso\\Edit.cshtml",
+              "ToolTip": "C:\\PNTCLON\\PNT-12F-Grupo4\\App\\App\\Views\\Curso\\Edit.cshtml",
+              "RelativeToolTip": "App\\Views\\Curso\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-01T16:06:44.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\PNTCLON\\PNT-12F-Grupo4\\App\\App\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "App\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\PNTCLON\\PNT-12F-Grupo4\\App\\App\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "App\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-01T05:07:55.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\PNTCLON\\PNT-12F-Grupo4\\App\\App\\Views\\Usuario\\Index.cshtml",
+              "RelativeDocumentMoniker": "App\\Views\\Usuario\\Index.cshtml",
+              "ToolTip": "C:\\PNTCLON\\PNT-12F-Grupo4\\App\\App\\Views\\Usuario\\Index.cshtml",
+              "RelativeToolTip": "App\\Views\\Usuario\\Index.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-01T05:10:17.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\PNTCLON\\PNT-12F-Grupo4\\App\\App\\Views\\Usuario\\Edit.cshtml",
+              "RelativeDocumentMoniker": "App\\Views\\Usuario\\Edit.cshtml",
+              "ToolTip": "C:\\PNTCLON\\PNT-12F-Grupo4\\App\\App\\Views\\Usuario\\Edit.cshtml",
+              "RelativeToolTip": "App\\Views\\Usuario\\Edit.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAMAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-01T16:07:21.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\PNTCLON\\PNT-12F-Grupo4\\App\\App\\Views\\Usuario\\Details.cshtml",
+              "RelativeDocumentMoniker": "App\\Views\\Usuario\\Details.cshtml",
+              "ToolTip": "C:\\PNTCLON\\PNT-12F-Grupo4\\App\\App\\Views\\Usuario\\Details.cshtml",
+              "RelativeToolTip": "App\\Views\\Usuario\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-01T16:07:16.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\PNTCLON\\PNT-12F-Grupo4\\App\\App\\Views\\Usuario\\Delete.cshtml",
+              "RelativeDocumentMoniker": "App\\Views\\Usuario\\Delete.cshtml",
+              "ToolTip": "C:\\PNTCLON\\PNT-12F-Grupo4\\App\\App\\Views\\Usuario\\Delete.cshtml",
+              "RelativeToolTip": "App\\Views\\Usuario\\Delete.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACAAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-01T16:07:11.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\PNTCLON\\PNT-12F-Grupo4\\App\\App\\Views\\Usuario\\Create.cshtml",
+              "RelativeDocumentMoniker": "App\\Views\\Usuario\\Create.cshtml",
+              "ToolTip": "C:\\PNTCLON\\PNT-12F-Grupo4\\App\\App\\Views\\Usuario\\Create.cshtml",
+              "RelativeToolTip": "App\\Views\\Usuario\\Create.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAMAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-01T16:06:54.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
               "Title": "20240630234805_Inicial.cs",
               "DocumentMoniker": "C:\\PNTCLON\\PNT-12F-Grupo4\\App\\App\\Migrations\\20240630234805_Inicial.cs",
               "RelativeDocumentMoniker": "App\\Migrations\\20240630234805_Inicial.cs",
@@ -500,7 +492,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 27,
               "Title": "20240701021052_Validaciones.cs",
               "DocumentMoniker": "C:\\PNTCLON\\PNT-12F-Grupo4\\App\\App\\Migrations\\20240701021052_Validaciones.cs",
               "RelativeDocumentMoniker": "App\\Migrations\\20240701021052_Validaciones.cs",

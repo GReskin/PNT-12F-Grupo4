@@ -18,9 +18,6 @@ namespace App.Models
         [Display(Name = "Email")]
         [Required(ErrorMessage = "Debe cargar el email del Usuario")]
         [RegularExpression(@"^\w+([-+.']\w+)*@\w+([-.]\w+)*\.\w+([-.]\w+)*$", ErrorMessage = "Email no es valido!")]
-
-       
-        
         public String emailUsuario { get; set; }
 
         [Display(Name = "Edad")]
