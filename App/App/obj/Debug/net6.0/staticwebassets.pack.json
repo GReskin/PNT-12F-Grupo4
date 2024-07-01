@@ -13,6 +13,26 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "D:\\Carpetas Windows\\Descargas\\PNT-12F-Grupo4\\App\\App\\wwwroot\\img\\image01.jpg",
+      "PackagePath": "staticwebassets\\img\\image01.jpg"
+    },
+    {
+      "Id": "D:\\Carpetas Windows\\Descargas\\PNT-12F-Grupo4\\App\\App\\wwwroot\\img\\image02.png",
+      "PackagePath": "staticwebassets\\img\\image02.png"
+    },
+    {
+      "Id": "D:\\Carpetas Windows\\Descargas\\PNT-12F-Grupo4\\App\\App\\wwwroot\\img\\image03.png",
+      "PackagePath": "staticwebassets\\img\\image03.png"
+    },
+    {
+      "Id": "D:\\Carpetas Windows\\Descargas\\PNT-12F-Grupo4\\App\\App\\wwwroot\\img\\image04.png",
+      "PackagePath": "staticwebassets\\img\\image04.png"
+    },
+    {
+      "Id": "D:\\Carpetas Windows\\Descargas\\PNT-12F-Grupo4\\App\\App\\wwwroot\\img\\logo_ort.png",
+      "PackagePath": "staticwebassets\\img\\logo_ort.png"
+    },
+    {
       "Id": "D:\\Carpetas Windows\\Descargas\\PNT-12F-Grupo4\\App\\App\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },

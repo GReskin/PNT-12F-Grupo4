@@ -15,4 +15,18 @@ html {
 
 body {
   margin-bottom: 60px;
+  background-color: lightgray;
+}
+
+
+.img-banner{
+    width:50vw;
+    height: 50vh;
+    object-fit: cover;
+    object-position: 100% 0;
+    left:0;
+}
+
+.img-logo{
+    width:10vw;
 }

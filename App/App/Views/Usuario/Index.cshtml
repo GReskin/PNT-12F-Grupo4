@@ -1,14 +1,17 @@
 ﻿@model IEnumerable<App.Models.Usuario>
 
 @{
-    ViewData["Title"] = "Index";
+    ViewData["Title"] = "Usuario - Inicio";
 }
 
-<h1>Index</h1>
+<h1>Usuarios</h1>
 
 <p>
-    <a asp-action="Create">Create New</a>
+    <button class="btn btn-primary">
+        <a asp-action="Create" style="color:white">Crear nuevo</a>
+    </button>
 </p>
+
 <table class="table">
     <thead>
         <tr>
@@ -49,9 +52,9 @@
                     @Html.DisplayFor(modelItem => item.Curso.nombreCurso)
                     </td>
             <td>
-                    <a asp-action="Edit" asp-route-id="@item.idUsuario">Edit</a> |
-                    <a asp-action="Details" asp-route-id="@item.idUsuario">Details</a> |
-                    <a asp-action="Delete" asp-route-id="@item.idUsuario">Delete</a>
+                    <a asp-action="Edit" asp-route-id="@item.idUsuario">Editar</a> |
+                    <a asp-action="Details" asp-route-id="@item.idUsuario">Detalles</a> |
+                    <a asp-action="Delete" asp-route-id="@item.idUsuario">Eliminar</a>
             </td>
         </tr>
 }
