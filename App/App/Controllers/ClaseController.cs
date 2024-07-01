@@ -59,7 +59,7 @@ namespace App.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598. 
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("idClase,nombreClase,numeroClase,linkVideo,idCurso")] Models.Clase clase)
+        public async Task<IActionResult> Create([Bind("idClase,nombreClase,linkVideo,fechaClase,idCurso")] Models.Clase clase)
         {
             if (ModelState.IsValid)
             {
@@ -93,7 +93,7 @@ namespace App.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(int id, [Bind("idClase,nombreClase,numeroClase,linkVideo,idCurso")] Models.Clase clase)
+        public async Task<IActionResult> Edit(int id, [Bind("idClase,nombreClase,linkVideo,fechaClase,idCurso")] Models.Clase clase)
         {
             if (id != clase.idClase)
             {

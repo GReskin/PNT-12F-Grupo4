@@ -6,17 +6,14 @@ namespace App.Models
 {
     public class Clase
     {
-        [Key]
-        [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
-        public int idClase { get; set; }
-
         [Display(Name = "Nombre de la Clase")]
         [Required(ErrorMessage = "Debe cargar el nombre de la clase!")]
         public String nombreClase { get; set; }
 
-        [Display(Name = "Nombre del Curso")]
-        [Required(ErrorMessage = "Debe cargar el nombre del curso!")]
-        public int numeroClase { get; set; }
+
+        [Key]
+        [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
+        public int idClase { get; set; }
 
 
         [Display(Name = "Fecha de la clase")]

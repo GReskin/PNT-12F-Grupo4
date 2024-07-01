@@ -130,9 +130,8 @@ namespace App.Controllers
             {
                 return NotFound();
             }
-
-            var usuario = await _context.Usuarios
-                .FirstOrDefaultAsync(m => m.idUsuario == id);
+            
+            var usuario = await _context.Usuarios.Include(b => b.Curso).FirstOrDefaultAsync(m => m.idUsuario == id);
             if (usuario == null)
             {
                 return NotFound();

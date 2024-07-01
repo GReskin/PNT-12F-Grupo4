@@ -19,13 +19,10 @@
                 @Html.DisplayNameFor(model => model.nombreClase)
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.numeroClase)
-            </th>
-            <th>
                 @Html.DisplayNameFor(model => model.linkVideo)
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.idCurso)
+                @Html.DisplayNameFor(model => model.fechaClase)
             </th>
             <th>
                 @Html.DisplayNameFor(model => model.curso)   
@@ -36,24 +33,21 @@
     <tbody>
 @foreach (var item in Model) {
         <tr>
-                <th>
-                    @Html.DisplayFor(modelItem => item.idClase)
-                </th>
             <td>
+                @Html.DisplayFor(modelItem => item.idClase)
+            </td>
+            <th>
                 @Html.DisplayFor(modelItem => item.nombreClase)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.numeroClase)
-            </td>
+            </th>
             <td>
                 @Html.DisplayFor(modelItem => item.linkVideo)
             </td>
             <td>
-                @Html.DisplayFor(modelItem => item.idCurso)   
+                @Html.DisplayFor(modelItem => item.fechaClase)
             </td>
-                <td>
-                    @Html.DisplayFor(modelItem => item.curso.nombreCurso)   
-                </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.curso.nombreCurso)   
+            </td>
             <td>
                 <a asp-action="Edit" asp-route-id="@item.idClase">Edit</a> |
                 <a asp-action="Details" asp-route-id="@item.idClase">Details</a> |

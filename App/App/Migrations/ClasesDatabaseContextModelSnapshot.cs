@@ -44,9 +44,6 @@ namespace App.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<int>("numeroClase")
-                        .HasColumnType("int");
-
                     b.HasKey("idClase");
 
                     b.HasIndex("idCurso");
