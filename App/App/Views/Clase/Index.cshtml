@@ -13,6 +13,9 @@
     <thead>
         <tr>
             <th>
+                @Html.DisplayNameFor(model => model.idClase)
+            </th>
+            <th>
                 @Html.DisplayNameFor(model => model.nombreClase)
             </th>
             <th>
@@ -21,12 +24,21 @@
             <th>
                 @Html.DisplayNameFor(model => model.linkVideo)
             </th>
+            <th>
+                @Html.DisplayNameFor(model => model.idCurso)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.curso)   
+            </th>
             <th></th>
         </tr>
     </thead>
     <tbody>
 @foreach (var item in Model) {
         <tr>
+                <th>
+                    @Html.DisplayFor(modelItem => item.idClase)
+                </th>
             <td>
                 @Html.DisplayFor(modelItem => item.nombreClase)
             </td>
@@ -36,6 +48,12 @@
             <td>
                 @Html.DisplayFor(modelItem => item.linkVideo)
             </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.idCurso)   
+            </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.curso.nombreCurso)   
+                </td>
             <td>
                 <a asp-action="Edit" asp-route-id="@item.idClase">Edit</a> |
                 <a asp-action="Details" asp-route-id="@item.idClase">Details</a> |

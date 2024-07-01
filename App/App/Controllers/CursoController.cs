@@ -56,7 +56,7 @@ namespace App.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("idCurso,nombreCurso")] Curso curso)
+        public async Task<IActionResult> Create([Bind("idCurso, nombreCurso")] Curso curso)
         {
             if (ModelState.IsValid)
             {
@@ -88,7 +88,7 @@ namespace App.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(int id, [Bind("idCurso,nombreCurso")] Curso curso)
+        public async Task<IActionResult> Edit(int id, [Bind("idCurso, nombreCurso")] Curso curso)
         {
             if (id != curso.idCurso)
             {
@@ -143,7 +143,7 @@ namespace App.Controllers
         {
             if (_context.Cursos == null)
             {
-                return Problem("Entity set 'ClasesDatabaseContext.Cursos'  is null.");
+                return Problem("Entity set 'ClasesDatabaseContext.Curso'  is null.");
             }
             var curso = await _context.Cursos.FindAsync(id);
             if (curso != null)

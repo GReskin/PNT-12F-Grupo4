@@ -22,9 +22,9 @@ namespace App.Controllers
         // GET: Clase
         public async Task<IActionResult> Index()
         {
-              return _context.Clase != null ? 
-                          View(await _context.Clase.ToListAsync()) :
-                          Problem("Entity set 'ClasesDatabaseContext.Clase'  is null.");
+            var clase = _context.Clase.Include(p => p.curso);
+
+            return View(await clase.ToListAsync());
         }
 
         // GET: Clase/Details/5
@@ -36,6 +36,7 @@ namespace App.Controllers
             }
 
             var clase = await _context.Clase
+                .Include(b => b.curso)
                 .FirstOrDefaultAsync(m => m.idClase == id);
             if (clase == null)
             {
@@ -48,15 +49,17 @@ namespace App.Controllers
         // GET: Clase/Create
         public IActionResult Create()
         {
+
+            ViewData["idCurso"] = new SelectList(_context.Cursos, "idCurso", "nombreCurso");
             return View();
         }
 
         // POST: Clase/Create
         // To protect from overposting attacks, enable the specific properties you want to bind to.
-        // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
+        // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598. 
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("idClase,nombreClase,numeroClase,linkVideo")] Clase clase)
+        public async Task<IActionResult> Create([Bind("idClase,nombreClase,numeroClase,linkVideo,idCurso")] Models.Clase clase)
         {
             if (ModelState.IsValid)
             {
@@ -64,6 +67,7 @@ namespace App.Controllers
                 await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index));
             }
+            ViewData["idCurso"] = new SelectList(_context.Cursos, "idCurso", "nombreCurso", clase.idCurso);
             return View(clase);
         }
 
@@ -80,6 +84,7 @@ namespace App.Controllers
             {
                 return NotFound();
             }
+            ViewData["idCurso"] = new SelectList(_context.Cursos, "idCurso", "nombreCurso", clase.idCurso);
             return View(clase);
         }
 
@@ -88,7 +93,7 @@ namespace App.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(int id, [Bind("idClase,nombreClase,numeroClase,linkVideo")] Clase clase)
+        public async Task<IActionResult> Edit(int id, [Bind("idClase,nombreClase,numeroClase,linkVideo,idCurso")] Models.Clase clase)
         {
             if (id != clase.idClase)
             {
@@ -115,6 +120,7 @@ namespace App.Controllers
                 }
                 return RedirectToAction(nameof(Index));
             }
+            ViewData["idCurso"] = new SelectList(_context.Cursos, "idCurso", "nombreCurso", clase.idCurso);
             return View(clase);
         }
 

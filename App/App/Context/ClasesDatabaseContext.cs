@@ -16,9 +16,9 @@ namespace App.Context
 		options) : base(options)
 		{
 		}
-		public DbSet<Usuario> Usuarios { get; set; }
-		public DbSet<Clase> Clase { get; set; }
-        public DbSet<Curso> Cursos { get; set; }
+		public DbSet<Usuario> Usuarios { get; set; } = default!;
+        public DbSet<Clase> Clase { get; set; } = default!;
+        public DbSet<Curso>? Cursos { get; set; }
 
     }
 }
