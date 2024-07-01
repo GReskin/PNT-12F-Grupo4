@@ -3,6 +3,7 @@ using System.ComponentModel.DataAnnotations;
 using System.Xml.Linq;
 using App.Validators;
 using System.ComponentModel;
+using System.Text.RegularExpressions;
 
 namespace App.Models
 {
@@ -31,6 +32,7 @@ namespace App.Models
 
         [Display(Name = "Link de la clase")]
         [Required(ErrorMessage = "Debe cargar un link al video de la clase!")]
+        [RegularExpression(@"^((?:https?:)?\/\/)?((?:www|m)\.)?((?:youtube\.com|youtu.be))(\/(?:[\w\-]+\?v=|embed\/|v\/)?)([\w\-]+)(\S+)?$", ErrorMessage = "Link no es valido!")]
         public String linkVideo { get; set; }
         
         [Display(Name = "Nombre del Curso")]
