@@ -1,25 +1,141 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Carpetas Windows\\Descargas\\PNT-12F-Grupo4\\App\\",
+  "WorkspaceRootPath": "C:\\PNTCLON\\PNT-12F-Grupo4\\App\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9CD006E4-B91D-4E5D-86A2-46AB67C300A9}|App\\App.csproj|d:\\carpetas windows\\descargas\\pnt-12f-grupo4\\app\\app\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9CD006E4-B91D-4E5D-86A2-46AB67C300A9}|App\\App.csproj|solutionrelative:app\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{9CD006E4-B91D-4E5D-86A2-46AB67C300A9}|App\\App.csproj|c:\\pntclon\\pnt-12f-grupo4\\app\\app\\migrations\\20240701030830_test2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CD006E4-B91D-4E5D-86A2-46AB67C300A9}|App\\App.csproj|solutionrelative:app\\migrations\\20240701030830_test2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9CD006E4-B91D-4E5D-86A2-46AB67C300A9}|App\\App.csproj|d:\\carpetas windows\\descargas\\pnt-12f-grupo4\\app\\app\\views\\usuario\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9CD006E4-B91D-4E5D-86A2-46AB67C300A9}|App\\App.csproj|solutionrelative:app\\views\\usuario\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{9CD006E4-B91D-4E5D-86A2-46AB67C300A9}|App\\App.csproj|c:\\pntclon\\pnt-12f-grupo4\\app\\app\\app.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9CD006E4-B91D-4E5D-86A2-46AB67C300A9}|App\\App.csproj|solutionrelative:app\\app.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9CD006E4-B91D-4E5D-86A2-46AB67C300A9}|App\\App.csproj|d:\\carpetas windows\\descargas\\pnt-12f-grupo4\\app\\app\\views\\curso\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{9CD006E4-B91D-4E5D-86A2-46AB67C300A9}|App\\App.csproj|c:\\pntclon\\pnt-12f-grupo4\\app\\app\\views\\clase\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9CD006E4-B91D-4E5D-86A2-46AB67C300A9}|App\\App.csproj|solutionrelative:app\\views\\clase\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CD006E4-B91D-4E5D-86A2-46AB67C300A9}|App\\App.csproj|c:\\pntclon\\pnt-12f-grupo4\\app\\app\\views\\clase\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9CD006E4-B91D-4E5D-86A2-46AB67C300A9}|App\\App.csproj|solutionrelative:app\\views\\clase\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CD006E4-B91D-4E5D-86A2-46AB67C300A9}|App\\App.csproj|c:\\pntclon\\pnt-12f-grupo4\\app\\app\\controllers\\clasecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CD006E4-B91D-4E5D-86A2-46AB67C300A9}|App\\App.csproj|solutionrelative:app\\controllers\\clasecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CD006E4-B91D-4E5D-86A2-46AB67C300A9}|App\\App.csproj|c:\\pntclon\\pnt-12f-grupo4\\app\\app\\controllers\\cursocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CD006E4-B91D-4E5D-86A2-46AB67C300A9}|App\\App.csproj|solutionrelative:app\\controllers\\cursocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CD006E4-B91D-4E5D-86A2-46AB67C300A9}|App\\App.csproj|c:\\pntclon\\pnt-12f-grupo4\\app\\app\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CD006E4-B91D-4E5D-86A2-46AB67C300A9}|App\\App.csproj|solutionrelative:app\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CD006E4-B91D-4E5D-86A2-46AB67C300A9}|App\\App.csproj|c:\\pntclon\\pnt-12f-grupo4\\app\\app\\views\\clase\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9CD006E4-B91D-4E5D-86A2-46AB67C300A9}|App\\App.csproj|solutionrelative:app\\views\\clase\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CD006E4-B91D-4E5D-86A2-46AB67C300A9}|App\\App.csproj|c:\\pntclon\\pnt-12f-grupo4\\app\\app\\views\\clase\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9CD006E4-B91D-4E5D-86A2-46AB67C300A9}|App\\App.csproj|solutionrelative:app\\views\\clase\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CD006E4-B91D-4E5D-86A2-46AB67C300A9}|App\\App.csproj|c:\\pntclon\\pnt-12f-grupo4\\app\\app\\views\\clase\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9CD006E4-B91D-4E5D-86A2-46AB67C300A9}|App\\App.csproj|solutionrelative:app\\views\\clase\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CD006E4-B91D-4E5D-86A2-46AB67C300A9}|App\\App.csproj|c:\\pntclon\\pnt-12f-grupo4\\app\\app\\views\\curso\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9CD006E4-B91D-4E5D-86A2-46AB67C300A9}|App\\App.csproj|solutionrelative:app\\views\\curso\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9CD006E4-B91D-4E5D-86A2-46AB67C300A9}|App\\App.csproj|d:\\carpetas windows\\descargas\\pnt-12f-grupo4\\app\\app\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{9CD006E4-B91D-4E5D-86A2-46AB67C300A9}|App\\App.csproj|c:\\pntclon\\pnt-12f-grupo4\\app\\app\\views\\curso\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9CD006E4-B91D-4E5D-86A2-46AB67C300A9}|App\\App.csproj|solutionrelative:app\\views\\curso\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CD006E4-B91D-4E5D-86A2-46AB67C300A9}|App\\App.csproj|c:\\pntclon\\pnt-12f-grupo4\\app\\app\\views\\curso\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9CD006E4-B91D-4E5D-86A2-46AB67C300A9}|App\\App.csproj|solutionrelative:app\\views\\curso\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CD006E4-B91D-4E5D-86A2-46AB67C300A9}|App\\App.csproj|c:\\pntclon\\pnt-12f-grupo4\\app\\app\\views\\curso\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9CD006E4-B91D-4E5D-86A2-46AB67C300A9}|App\\App.csproj|solutionrelative:app\\views\\curso\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CD006E4-B91D-4E5D-86A2-46AB67C300A9}|App\\App.csproj|c:\\pntclon\\pnt-12f-grupo4\\app\\app\\views\\curso\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9CD006E4-B91D-4E5D-86A2-46AB67C300A9}|App\\App.csproj|solutionrelative:app\\views\\curso\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CD006E4-B91D-4E5D-86A2-46AB67C300A9}|App\\App.csproj|c:\\pntclon\\pnt-12f-grupo4\\app\\app\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9CD006E4-B91D-4E5D-86A2-46AB67C300A9}|App\\App.csproj|solutionrelative:app\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9CD006E4-B91D-4E5D-86A2-46AB67C300A9}|App\\App.csproj|d:\\carpetas windows\\descargas\\pnt-12f-grupo4\\app\\app\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{9CD006E4-B91D-4E5D-86A2-46AB67C300A9}|App\\App.csproj|c:\\pntclon\\pnt-12f-grupo4\\app\\app\\views\\usuario\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9CD006E4-B91D-4E5D-86A2-46AB67C300A9}|App\\App.csproj|solutionrelative:app\\views\\usuario\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CD006E4-B91D-4E5D-86A2-46AB67C300A9}|App\\App.csproj|c:\\pntclon\\pnt-12f-grupo4\\app\\app\\views\\usuario\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9CD006E4-B91D-4E5D-86A2-46AB67C300A9}|App\\App.csproj|solutionrelative:app\\views\\usuario\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CD006E4-B91D-4E5D-86A2-46AB67C300A9}|App\\App.csproj|c:\\pntclon\\pnt-12f-grupo4\\app\\app\\views\\usuario\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9CD006E4-B91D-4E5D-86A2-46AB67C300A9}|App\\App.csproj|solutionrelative:app\\views\\usuario\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CD006E4-B91D-4E5D-86A2-46AB67C300A9}|App\\App.csproj|c:\\pntclon\\pnt-12f-grupo4\\app\\app\\views\\usuario\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9CD006E4-B91D-4E5D-86A2-46AB67C300A9}|App\\App.csproj|solutionrelative:app\\views\\usuario\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CD006E4-B91D-4E5D-86A2-46AB67C300A9}|App\\App.csproj|c:\\pntclon\\pnt-12f-grupo4\\app\\app\\views\\usuario\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9CD006E4-B91D-4E5D-86A2-46AB67C300A9}|App\\App.csproj|solutionrelative:app\\views\\usuario\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CD006E4-B91D-4E5D-86A2-46AB67C300A9}|App\\App.csproj|c:\\pntclon\\pnt-12f-grupo4\\app\\app\\models\\clase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CD006E4-B91D-4E5D-86A2-46AB67C300A9}|App\\App.csproj|solutionrelative:app\\models\\clase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CD006E4-B91D-4E5D-86A2-46AB67C300A9}|App\\App.csproj|c:\\pntclon\\pnt-12f-grupo4\\app\\app\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CD006E4-B91D-4E5D-86A2-46AB67C300A9}|App\\App.csproj|solutionrelative:app\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CD006E4-B91D-4E5D-86A2-46AB67C300A9}|App\\App.csproj|c:\\pntclon\\pnt-12f-grupo4\\app\\app\\models\\curso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CD006E4-B91D-4E5D-86A2-46AB67C300A9}|App\\App.csproj|solutionrelative:app\\models\\curso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CD006E4-B91D-4E5D-86A2-46AB67C300A9}|App\\App.csproj|c:\\pntclon\\pnt-12f-grupo4\\app\\app\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CD006E4-B91D-4E5D-86A2-46AB67C300A9}|App\\App.csproj|solutionrelative:app\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CD006E4-B91D-4E5D-86A2-46AB67C300A9}|App\\App.csproj|c:\\pntclon\\pnt-12f-grupo4\\app\\app\\migrations\\20240701021052_validaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CD006E4-B91D-4E5D-86A2-46AB67C300A9}|App\\App.csproj|solutionrelative:app\\migrations\\20240701021052_validaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CD006E4-B91D-4E5D-86A2-46AB67C300A9}|App\\App.csproj|c:\\pntclon\\pnt-12f-grupo4\\app\\app\\migrations\\20240630234805_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CD006E4-B91D-4E5D-86A2-46AB67C300A9}|App\\App.csproj|solutionrelative:app\\migrations\\20240630234805_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CD006E4-B91D-4E5D-86A2-46AB67C300A9}|App\\App.csproj|c:\\pntclon\\pnt-12f-grupo4\\app\\app\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CD006E4-B91D-4E5D-86A2-46AB67C300A9}|App\\App.csproj|solutionrelative:app\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CD006E4-B91D-4E5D-86A2-46AB67C300A9}|App\\App.csproj|c:\\pntclon\\pnt-12f-grupo4\\app\\app\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9CD006E4-B91D-4E5D-86A2-46AB67C300A9}|App\\App.csproj|solutionrelative:app\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CD006E4-B91D-4E5D-86A2-46AB67C300A9}|App\\App.csproj|c:\\pntclon\\pnt-12f-grupo4\\app\\app\\migrations\\20240701025719_migracion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CD006E4-B91D-4E5D-86A2-46AB67C300A9}|App\\App.csproj|solutionrelative:app\\migrations\\20240701025719_migracion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CD006E4-B91D-4E5D-86A2-46AB67C300A9}|App\\App.csproj|c:\\pntclon\\pnt-12f-grupo4\\app\\app\\context\\clasesdatabasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CD006E4-B91D-4E5D-86A2-46AB67C300A9}|App\\App.csproj|solutionrelative:app\\context\\clasesdatabasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CD006E4-B91D-4E5D-86A2-46AB67C300A9}|App\\App.csproj|c:\\pntclon\\pnt-12f-grupo4\\app\\app\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{9CD006E4-B91D-4E5D-86A2-46AB67C300A9}|App\\App.csproj|solutionrelative:app\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CD006E4-B91D-4E5D-86A2-46AB67C300A9}|App\\App.csproj|c:\\pntclon\\pnt-12f-grupo4\\app\\app\\migrations\\clasesdatabasecontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CD006E4-B91D-4E5D-86A2-46AB67C300A9}|App\\App.csproj|solutionrelative:app\\migrations\\clasesdatabasecontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CD006E4-B91D-4E5D-86A2-46AB67C300A9}|App\\App.csproj|c:\\pntclon\\pnt-12f-grupo4\\app\\app\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9CD006E4-B91D-4E5D-86A2-46AB67C300A9}|App\\App.csproj|solutionrelative:app\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -30,58 +146,210 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 8,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "App",
+              "DocumentMoniker": "C:\\PNTCLON\\PNT-12F-Grupo4\\App\\App\\App.csproj",
+              "RelativeDocumentMoniker": "App\\App.csproj",
+              "ToolTip": "C:\\PNTCLON\\PNT-12F-Grupo4\\App\\App\\App.csproj",
+              "RelativeToolTip": "App\\App.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-01T16:48:42.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\Carpetas Windows\\Descargas\\PNT-12F-Grupo4\\App\\App\\Views\\Usuario\\Index.cshtml",
-              "RelativeDocumentMoniker": "App\\Views\\Usuario\\Index.cshtml",
-              "ToolTip": "D:\\Carpetas Windows\\Descargas\\PNT-12F-Grupo4\\App\\App\\Views\\Usuario\\Index.cshtml",
-              "RelativeToolTip": "App\\Views\\Usuario\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAApAAAA",
+              "DocumentMoniker": "C:\\PNTCLON\\PNT-12F-Grupo4\\App\\App\\Views\\Clase\\Index.cshtml",
+              "RelativeDocumentMoniker": "App\\Views\\Clase\\Index.cshtml",
+              "ToolTip": "C:\\PNTCLON\\PNT-12F-Grupo4\\App\\App\\Views\\Clase\\Index.cshtml",
+              "RelativeToolTip": "App\\Views\\Clase\\Index.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABMAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-01T05:10:17.751Z",
+              "WhenOpened": "2024-07-01T16:06:07.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\PNTCLON\\PNT-12F-Grupo4\\App\\App\\Views\\Clase\\Details.cshtml",
+              "RelativeDocumentMoniker": "App\\Views\\Clase\\Details.cshtml",
+              "ToolTip": "C:\\PNTCLON\\PNT-12F-Grupo4\\App\\App\\Views\\Clase\\Details.cshtml",
+              "RelativeToolTip": "App\\Views\\Clase\\Details.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-01T16:05:55.041Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\PNTCLON\\PNT-12F-Grupo4\\App\\App\\Views\\Clase\\Delete.cshtml",
+              "RelativeDocumentMoniker": "App\\Views\\Clase\\Delete.cshtml",
+              "ToolTip": "C:\\PNTCLON\\PNT-12F-Grupo4\\App\\App\\Views\\Clase\\Delete.cshtml",
+              "RelativeToolTip": "App\\Views\\Clase\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-01T16:05:49.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "D:\\Carpetas Windows\\Descargas\\PNT-12F-Grupo4\\App\\App\\Views\\Curso\\Create.cshtml",
+              "DocumentMoniker": "C:\\PNTCLON\\PNT-12F-Grupo4\\App\\App\\Views\\Clase\\Create.cshtml",
+              "RelativeDocumentMoniker": "App\\Views\\Clase\\Create.cshtml",
+              "ToolTip": "C:\\PNTCLON\\PNT-12F-Grupo4\\App\\App\\Views\\Clase\\Create.cshtml",
+              "RelativeToolTip": "App\\Views\\Clase\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-01T16:05:32.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\PNTCLON\\PNT-12F-Grupo4\\App\\App\\Views\\Curso\\Index.cshtml",
+              "RelativeDocumentMoniker": "App\\Views\\Curso\\Index.cshtml",
+              "ToolTip": "C:\\PNTCLON\\PNT-12F-Grupo4\\App\\App\\Views\\Curso\\Index.cshtml",
+              "RelativeToolTip": "App\\Views\\Curso\\Index.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABoAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-01T16:06:48.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\PNTCLON\\PNT-12F-Grupo4\\App\\App\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "App\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\PNTCLON\\PNT-12F-Grupo4\\App\\App\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "App\\Controllers\\UsuarioController.cs",
+              "ViewState": "AQIAAH4AAAAAAAAAAAApwIUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T15:46:45.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClaseController.cs",
+              "DocumentMoniker": "C:\\PNTCLON\\PNT-12F-Grupo4\\App\\App\\Controllers\\ClaseController.cs",
+              "RelativeDocumentMoniker": "App\\Controllers\\ClaseController.cs",
+              "ToolTip": "C:\\PNTCLON\\PNT-12F-Grupo4\\App\\App\\Controllers\\ClaseController.cs",
+              "RelativeToolTip": "App\\Controllers\\ClaseController.cs",
+              "ViewState": "AQIAAGgAAAAAAAAAAAAuwIYAAABlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T15:46:48.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20240701030830_test2.cs",
+              "DocumentMoniker": "C:\\PNTCLON\\PNT-12F-Grupo4\\App\\App\\Migrations\\20240701030830_test2.cs",
+              "RelativeDocumentMoniker": "App\\Migrations\\20240701030830_test2.cs",
+              "ToolTip": "C:\\PNTCLON\\PNT-12F-Grupo4\\App\\App\\Migrations\\20240701030830_test2.cs",
+              "RelativeToolTip": "App\\Migrations\\20240701030830_test2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T16:24:32.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\PNTCLON\\PNT-12F-Grupo4\\App\\App\\Views\\Clase\\Edit.cshtml",
+              "RelativeDocumentMoniker": "App\\Views\\Clase\\Edit.cshtml",
+              "ToolTip": "C:\\PNTCLON\\PNT-12F-Grupo4\\App\\App\\Views\\Clase\\Edit.cshtml",
+              "RelativeToolTip": "App\\Views\\Clase\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-01T16:06:01.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CursoController.cs",
+              "DocumentMoniker": "C:\\PNTCLON\\PNT-12F-Grupo4\\App\\App\\Controllers\\CursoController.cs",
+              "RelativeDocumentMoniker": "App\\Controllers\\CursoController.cs",
+              "ToolTip": "C:\\PNTCLON\\PNT-12F-Grupo4\\App\\App\\Controllers\\CursoController.cs",
+              "RelativeToolTip": "App\\Controllers\\CursoController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwCkAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T16:19:11.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\PNTCLON\\PNT-12F-Grupo4\\App\\App\\Views\\Curso\\Create.cshtml",
               "RelativeDocumentMoniker": "App\\Views\\Curso\\Create.cshtml",
-              "ToolTip": "D:\\Carpetas Windows\\Descargas\\PNT-12F-Grupo4\\App\\App\\Views\\Curso\\Create.cshtml",
+              "ToolTip": "C:\\PNTCLON\\PNT-12F-Grupo4\\App\\App\\Views\\Curso\\Create.cshtml",
               "RelativeToolTip": "App\\Views\\Curso\\Create.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-07-01T05:09:57.651Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Privacy.cshtml",
-              "DocumentMoniker": "D:\\Carpetas Windows\\Descargas\\PNT-12F-Grupo4\\App\\App\\Views\\Home\\Privacy.cshtml",
-              "RelativeDocumentMoniker": "App\\Views\\Home\\Privacy.cshtml",
-              "ToolTip": "D:\\Carpetas Windows\\Descargas\\PNT-12F-Grupo4\\App\\App\\Views\\Home\\Privacy.cshtml",
-              "RelativeToolTip": "App\\Views\\Home\\Privacy.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "DocumentIndex": 11,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\PNTCLON\\PNT-12F-Grupo4\\App\\App\\Views\\Curso\\Delete.cshtml",
+              "RelativeDocumentMoniker": "App\\Views\\Curso\\Delete.cshtml",
+              "ToolTip": "C:\\PNTCLON\\PNT-12F-Grupo4\\App\\App\\Views\\Curso\\Delete.cshtml",
+              "RelativeToolTip": "App\\Views\\Curso\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-01T05:07:59.242Z",
+              "WhenOpened": "2024-07-01T16:06:23.753Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 12,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\PNTCLON\\PNT-12F-Grupo4\\App\\App\\Views\\Curso\\Details.cshtml",
+              "RelativeDocumentMoniker": "App\\Views\\Curso\\Details.cshtml",
+              "ToolTip": "C:\\PNTCLON\\PNT-12F-Grupo4\\App\\App\\Views\\Curso\\Details.cshtml",
+              "RelativeToolTip": "App\\Views\\Curso\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-01T16:06:39.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\PNTCLON\\PNT-12F-Grupo4\\App\\App\\Views\\Curso\\Edit.cshtml",
+              "RelativeDocumentMoniker": "App\\Views\\Curso\\Edit.cshtml",
+              "ToolTip": "C:\\PNTCLON\\PNT-12F-Grupo4\\App\\App\\Views\\Curso\\Edit.cshtml",
+              "RelativeToolTip": "App\\Views\\Curso\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-01T16:06:44.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\Carpetas Windows\\Descargas\\PNT-12F-Grupo4\\App\\App\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "C:\\PNTCLON\\PNT-12F-Grupo4\\App\\App\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "App\\Views\\Home\\Index.cshtml",
-              "ToolTip": "D:\\Carpetas Windows\\Descargas\\PNT-12F-Grupo4\\App\\App\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\PNTCLON\\PNT-12F-Grupo4\\App\\App\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "App\\Views\\Home\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -90,16 +358,236 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\PNTCLON\\PNT-12F-Grupo4\\App\\App\\Views\\Usuario\\Index.cshtml",
+              "RelativeDocumentMoniker": "App\\Views\\Usuario\\Index.cshtml",
+              "ToolTip": "C:\\PNTCLON\\PNT-12F-Grupo4\\App\\App\\Views\\Usuario\\Index.cshtml",
+              "RelativeToolTip": "App\\Views\\Usuario\\Index.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-01T05:10:17.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\PNTCLON\\PNT-12F-Grupo4\\App\\App\\Views\\Usuario\\Edit.cshtml",
+              "RelativeDocumentMoniker": "App\\Views\\Usuario\\Edit.cshtml",
+              "ToolTip": "C:\\PNTCLON\\PNT-12F-Grupo4\\App\\App\\Views\\Usuario\\Edit.cshtml",
+              "RelativeToolTip": "App\\Views\\Usuario\\Edit.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAMAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-01T16:07:21.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\PNTCLON\\PNT-12F-Grupo4\\App\\App\\Views\\Usuario\\Details.cshtml",
+              "RelativeDocumentMoniker": "App\\Views\\Usuario\\Details.cshtml",
+              "ToolTip": "C:\\PNTCLON\\PNT-12F-Grupo4\\App\\App\\Views\\Usuario\\Details.cshtml",
+              "RelativeToolTip": "App\\Views\\Usuario\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-01T16:07:16.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\PNTCLON\\PNT-12F-Grupo4\\App\\App\\Views\\Usuario\\Delete.cshtml",
+              "RelativeDocumentMoniker": "App\\Views\\Usuario\\Delete.cshtml",
+              "ToolTip": "C:\\PNTCLON\\PNT-12F-Grupo4\\App\\App\\Views\\Usuario\\Delete.cshtml",
+              "RelativeToolTip": "App\\Views\\Usuario\\Delete.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACAAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-01T16:07:11.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\PNTCLON\\PNT-12F-Grupo4\\App\\App\\Views\\Usuario\\Create.cshtml",
+              "RelativeDocumentMoniker": "App\\Views\\Usuario\\Create.cshtml",
+              "ToolTip": "C:\\PNTCLON\\PNT-12F-Grupo4\\App\\App\\Views\\Usuario\\Create.cshtml",
+              "RelativeToolTip": "App\\Views\\Usuario\\Create.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAMAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-01T16:06:54.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Clase.cs",
+              "DocumentMoniker": "C:\\PNTCLON\\PNT-12F-Grupo4\\App\\App\\Models\\Clase.cs",
+              "RelativeDocumentMoniker": "App\\Models\\Clase.cs",
+              "ToolTip": "C:\\PNTCLON\\PNT-12F-Grupo4\\App\\App\\Models\\Clase.cs",
+              "RelativeToolTip": "App\\Models\\Clase.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAABsAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T16:24:51.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\PNTCLON\\PNT-12F-Grupo4\\App\\App\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "App\\Models\\Usuario.cs",
+              "ToolTip": "C:\\PNTCLON\\PNT-12F-Grupo4\\App\\App\\Models\\Usuario.cs",
+              "RelativeToolTip": "App\\Models\\Usuario.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T16:30:22.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\PNTCLON\\PNT-12F-Grupo4\\App\\App\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "App\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\PNTCLON\\PNT-12F-Grupo4\\App\\App\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "App\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T15:46:46.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Curso.cs",
+              "DocumentMoniker": "C:\\PNTCLON\\PNT-12F-Grupo4\\App\\App\\Models\\Curso.cs",
+              "RelativeDocumentMoniker": "App\\Models\\Curso.cs",
+              "ToolTip": "C:\\PNTCLON\\PNT-12F-Grupo4\\App\\App\\Models\\Curso.cs",
+              "RelativeToolTip": "App\\Models\\Curso.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T16:30:20.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\PNTCLON\\PNT-12F-Grupo4\\App\\App\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "App\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\PNTCLON\\PNT-12F-Grupo4\\App\\App\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "App\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T16:30:21.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "20240630234805_Inicial.cs",
+              "DocumentMoniker": "C:\\PNTCLON\\PNT-12F-Grupo4\\App\\App\\Migrations\\20240630234805_Inicial.cs",
+              "RelativeDocumentMoniker": "App\\Migrations\\20240630234805_Inicial.cs",
+              "ToolTip": "C:\\PNTCLON\\PNT-12F-Grupo4\\App\\App\\Migrations\\20240630234805_Inicial.cs",
+              "RelativeToolTip": "App\\Migrations\\20240630234805_Inicial.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T16:33:42.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "20240701021052_Validaciones.cs",
+              "DocumentMoniker": "C:\\PNTCLON\\PNT-12F-Grupo4\\App\\App\\Migrations\\20240701021052_Validaciones.cs",
+              "RelativeDocumentMoniker": "App\\Migrations\\20240701021052_Validaciones.cs",
+              "ToolTip": "C:\\PNTCLON\\PNT-12F-Grupo4\\App\\App\\Migrations\\20240701021052_Validaciones.cs",
+              "RelativeToolTip": "App\\Migrations\\20240701021052_Validaciones.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T16:33:47.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "20240701025719_migracion.cs",
+              "DocumentMoniker": "C:\\PNTCLON\\PNT-12F-Grupo4\\App\\App\\Migrations\\20240701025719_migracion.cs",
+              "RelativeDocumentMoniker": "App\\Migrations\\20240701025719_migracion.cs",
+              "ToolTip": "C:\\PNTCLON\\PNT-12F-Grupo4\\App\\App\\Migrations\\20240701025719_migracion.cs",
+              "RelativeToolTip": "App\\Migrations\\20240701025719_migracion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T16:24:33.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\Carpetas Windows\\Descargas\\PNT-12F-Grupo4\\App\\App\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\PNTCLON\\PNT-12F-Grupo4\\App\\App\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "App\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\Carpetas Windows\\Descargas\\PNT-12F-Grupo4\\App\\App\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\PNTCLON\\PNT-12F-Grupo4\\App\\App\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "App\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAqAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABYAAAB5AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-07-01T05:06:56.757Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ClasesDatabaseContext.cs",
+              "DocumentMoniker": "C:\\PNTCLON\\PNT-12F-Grupo4\\App\\App\\Context\\ClasesDatabaseContext.cs",
+              "RelativeDocumentMoniker": "App\\Context\\ClasesDatabaseContext.cs",
+              "ToolTip": "C:\\PNTCLON\\PNT-12F-Grupo4\\App\\App\\Context\\ClasesDatabaseContext.cs",
+              "RelativeToolTip": "App\\Context\\ClasesDatabaseContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T16:03:54.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ClasesDatabaseContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\PNTCLON\\PNT-12F-Grupo4\\App\\App\\Migrations\\ClasesDatabaseContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "App\\Migrations\\ClasesDatabaseContextModelSnapshot.cs",
+              "ToolTip": "C:\\PNTCLON\\PNT-12F-Grupo4\\App\\App\\Migrations\\ClasesDatabaseContextModelSnapshot.cs",
+              "RelativeToolTip": "App\\Migrations\\ClasesDatabaseContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T15:46:43.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\PNTCLON\\PNT-12F-Grupo4\\App\\App\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "App\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\PNTCLON\\PNT-12F-Grupo4\\App\\App\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "App\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-07-01T15:44:23.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\PNTCLON\\PNT-12F-Grupo4\\App\\App\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "App\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\PNTCLON\\PNT-12F-Grupo4\\App\\App\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "App\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-01T05:07:59.242Z"
             }
           ]
         }

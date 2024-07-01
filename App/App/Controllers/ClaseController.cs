@@ -132,8 +132,7 @@ namespace App.Controllers
                 return NotFound();
             }
 
-            var clase = await _context.Clase
-                .FirstOrDefaultAsync(m => m.idClase == id);
+            var clase = await _context.Clase.Include(b => b.curso).FirstOrDefaultAsync(m => m.idClase == id);
             if (clase == null)
             {
                 return NotFound();

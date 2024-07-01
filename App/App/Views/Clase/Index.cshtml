@@ -1,7 +1,7 @@
 ﻿@model IEnumerable<App.Models.Clase>
 
 @{
-    ViewData["Title"] = "Index";
+    ViewData["Title"] = "Clase - Listado";
 }
 
 <h1>Listado de clases</h1>
@@ -14,9 +14,6 @@
 <table class="table">
     <thead>
         <tr>
-            <th>
-                @Html.DisplayNameFor(model => model.idClase)
-            </th>
             <th>
                 @Html.DisplayNameFor(model => model.nombreClase)
             </th>
@@ -35,9 +32,6 @@
     <tbody>
 @foreach (var item in Model) {
         <tr>
-            <td>
-                @Html.DisplayFor(modelItem => item.idClase)
-            </td>
             <th>
                 @Html.DisplayFor(modelItem => item.nombreClase)
             </th>

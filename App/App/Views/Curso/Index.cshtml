@@ -1,10 +1,10 @@
 ﻿@model IEnumerable<App.Models.Curso>
 
 @{
-    ViewData["Title"] = "Index";
+    ViewData["Title"] = "Curso - Listado";
 }
 
-<h1>Cursos</h1>
+<h1>Listado de Cursos</h1>
 
 <p>
     <button class="btn btn-primary">
@@ -15,9 +15,6 @@
     <thead>
         <tr>
             <th>
-                @Html.DisplayNameFor(model => model.idCurso)
-            </th>
-            <th>
                 @Html.DisplayNameFor(model => model.nombreCurso)
             </th>
             <th></th>
@@ -26,13 +23,9 @@
     <tbody>
 @foreach (var item in Model) {
         <tr>
-                
-            <td>
-                @Html.DisplayFor(modelItem => item.idCurso)
-            </td>
-                 <td>
-                    @Html.DisplayFor(modelItem => item.nombreCurso)
-                </td>
+           <td>
+                @Html.DisplayFor(modelItem => item.nombreCurso)
+           </td>
             
             <td>
                 <a asp-action="Edit" asp-route-id="@item.idCurso">Editar</a> |

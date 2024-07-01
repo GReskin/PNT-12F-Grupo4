@@ -1,7 +1,7 @@
 ﻿@model App.Models.Clase
 
 @{
-    ViewData["Title"] = "Delete";
+    ViewData["Title"] = "Clase - Eliminar";
 }
 
 <h1>Borrar</h1>
@@ -11,12 +11,6 @@
     <h4>Clase</h4>
     <hr />
     <dl class="row">
-        <dt class="col-sm-2">
-            @Html.DisplayNameFor(model => model.idClase)
-        </dt>
-        <dd class="col-sm-10">
-            @Html.DisplayFor(model => model.idClase)
-        </dd>
         <dt class = "col-sm-2">
             @Html.DisplayNameFor(model => model.nombreClase)
         </dt>
@@ -39,7 +33,7 @@
             @Html.DisplayNameFor(model => model.curso)
         </dt>
         <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.curso.idCurso)
+            @Html.DisplayFor(model => model.curso.nombreCurso)
         </dd>
     </dl>
 
