@@ -1,11 +1,17 @@
 ﻿using System.ComponentModel.DataAnnotations.Schema;
 using System.ComponentModel.DataAnnotations;
 using System.Xml.Linq;
+using App.Validators;
 
 namespace App.Models
 {
+
+    
+
     public class Clase
     {
+
+
         [Display(Name = "Nombre de la Clase")]
         [Required(ErrorMessage = "Debe cargar el nombre de la clase!")]
         public String nombreClase { get; set; }
@@ -16,8 +22,10 @@ namespace App.Models
         public int idClase { get; set; }
 
 
+
         [Display(Name = "Fecha de la clase")]
         [Required(ErrorMessage = "Debe cargar la fecha de la clase!")]
+        [FechaValidator]
         public DateTime fechaClase { get; set; }
 
         [Display(Name = "Link de la clase")]
@@ -32,4 +40,6 @@ namespace App.Models
         public virtual Curso ? curso { get; set; }
 
     }
+
+    
 }
